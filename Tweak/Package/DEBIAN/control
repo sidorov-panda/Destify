@@ -1,6 +1,6 @@
 Package: org.iLendSoft.Deskify
 Name: Destify
-Version: 1.0-1
+Version: 1.1-2
 Description: Forward any iOS Notification to your PC
 Section: System
 Depends: firmware (>= 5.0), mobilesubstrate
