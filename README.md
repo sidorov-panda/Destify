@@ -13,7 +13,7 @@ by Muhammet Ilendemli<br/>
   You can make a notification sticky, by clicking on the pin at the right top of the notification.<br/>
   Beware: You won't be able to answer the notifications!<br/>
 <h3>Instructions</h3>
-  Download the Server installer from: http://ils.eu.gg/sharing/Destify/Installer.jar<br/>
+  Download the Server installer from: https://github.com/ilendemli/Destify/raw/master/Installer.jar<br/>
   Important: You need at least Oracle JRE 6!!<br/>
 <br/>
   Tested on iPhone 5 (6.0.2) and iPad mini (6.1.2)<br/>
